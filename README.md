@@ -1,5 +1,6 @@
 # Exploratory-Data-Analysis-of-Cyber-Security-Breaches
-Overview
+Overview:
+
 This project involves performing an exploratory data analysis (EDA) on a dataset containing information about cyber security breaches.
 The goal is to clean the data, visualize key features, and uncover insights that can help organizations understand the landscape of cyber threats.
 
@@ -31,6 +32,7 @@ Run the script to see the visualizations and insights.
 
 
 @Conclusion:
+
 This project highlights the importance of data analysis in understanding cyber security threats. The visualizations provide valuable insights that can aid organizations in their security strategies.
 
 Feel free to reach out for any questions or discussions regarding this project!
